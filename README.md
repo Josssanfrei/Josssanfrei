@@ -1,5 +1,5 @@
   ###  Oi Aí,  Hi 🖐️ I'm Joseane .
-- 👩‍💻 I’m currently learning Java and React.  <br>  Atualmente aprendendo Java e React.
+- 👩‍💻 I’m currently learning Java.  <br>  Atualmente aprendendo Java e Kotlin.
  - ❤️I'm passionate about technology .
  - Curiosity about me; I Love tiny dogs 🐕 and Christmas 🎅.      
              <div align="justify">  <p>
